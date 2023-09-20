@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @damibran
-- 👀 I’m interested in gamedev, graphicd and engine programming
+- 👀 I’m interested in gamedev, graphics and engine programming
 
 In my repositories, you can find:
 - *learn_graphics_API* -- my learning purposes "game engine" - software with animation sequencer for 3D animated videos creation
